@@ -1,0 +1,8 @@
+Distance Metric Comparison Results
+
+Euclidean : 0.9667
+Manhattan : 0.9667
+Minkowski : 0.9667
+
+Conclusion:
+All three distance metrics performed well on the Iris dataset. Euclidean distance was selected as the default metric for the final KNN model.

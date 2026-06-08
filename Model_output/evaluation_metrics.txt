@@ -1,0 +1,4 @@
+KNN CLASSIFICATION METRICS
+
+Best K Value : 1
+Accuracy Score : 0.9667

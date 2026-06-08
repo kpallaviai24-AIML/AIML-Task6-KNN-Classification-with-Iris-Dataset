@@ -1,0 +1,9 @@
+KNN CLASSIFICATION MODEL SUMMARY
+
+Dataset Size : (150, 5)
+Number of Features : 4
+Training Samples : 120
+Testing Samples : 30
+Best K Value : 1
+Accuracy : 0.9667
+Cross Validation Accuracy : 0.9467
